@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MarfinaLibrary.Models.Partner">
+    <Position X="5.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAQCAAAAAAAAAAAAQCAAAAAAEkABABIAAAACA=</HashCode>
+      <FileName>Models\Partner.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="SalesHistories" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="MarfinaLibrary.Models.PartnerType">
+    <Position X="0.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\PartnerType.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Partners" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="MarfinaLibrary.Models.Product">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAgAAACAAAAAAQCEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Product.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="SalesHistories" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="MarfinaLibrary.Models.SalesHistory">
+    <Position X="1.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAAAAAAAUAAAAAAAAAAAAAAAAAAAAAAAAgAEAAAg=</HashCode>
+      <FileName>Models\SalesHistory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

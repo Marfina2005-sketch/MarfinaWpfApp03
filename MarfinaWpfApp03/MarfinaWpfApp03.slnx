@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../MarfinaLibrary/MarfinaLibrary.csproj" Id="1800624b-eea5-4f85-9356-9bbccc69a862" />
+  <Project Path="../MarfinaUnitTest/MarfinaUnitTest.csproj" Id="ad5fad27-1ba5-473b-926f-2f291e7f3c56" />
+  <Project Path="MarfinaWpfApp03.csproj" Id="682a5aa6-9e57-4af4-969d-2bd7ee18da19" />
+</Solution>
